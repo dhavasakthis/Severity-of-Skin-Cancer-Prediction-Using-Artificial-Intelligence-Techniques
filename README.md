@@ -1,0 +1,2 @@
+# Severity-of-Skin-Cancer-Prediction-Using-Artificial-Intelligence-Techniques
+This project utilizes EfficientNetB4, an advanced deep learning model, to improve skin cancer prediction using the HAM10000 dataset. By leveraging compound scaling and transfer learning, the model achieves superior accuracy, outperforming alternatives like MobileNet and VGG-16, making it ideal for real-world healthcare applications.
